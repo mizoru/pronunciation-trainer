@@ -31,6 +31,8 @@ __all__ = [
     "stem",
     "body",
     "QuartznetEncoder",
+    "conv1d_decoder",
+    "QuartzNet"
 ]
 
 from enum import Enum
